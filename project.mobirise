@@ -40,7 +40,16 @@
     "siteFonts": [],
     "uniqCompNum": 33,
     "versionPublish": "4.9.5",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "siteUrl": "",
+    "sitemapSwitcherAuto": "on",
+    "robotsText": "Olá precisa de Alguma Ajuda?\n\n",
+    "robotsSwitcher": "on",
+    "favicon": "",
+    "noImageResize": "",
+    "google-analytics": "<!-- Global site tag (gtag.js) - Google Ads: 864219172 -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=AW-864219172\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'AW-864219172');\r\n</script><script>\r\n  gtag('event', 'page_view', {\r\n    'send_to': 'AW-864219172',\r\n    'items': [{\r\n      'id': 'replace with value',\r\n      'location_id': 'replace with value',\r\n      'google_business_vertical': 'education'\r\n    }, {\r\n      'id': 'replace with value',\r\n      'location_id': 'replace with value',\r\n      'google_business_vertical': 'jobs'\r\n    }, {\r\n      'id': 'replace with value',\r\n      'location_id': 'replace with value',\r\n      'google_business_vertical': 'local'\r\n    }, {\r\n      'id': 'replace with value',\r\n      'google_business_vertical': 'retail'\r\n    }, {\r\n      'id': 'replace with value',\r\n      'location_id': 'replace with value',\r\n      'google_business_vertical': 'custom'\r\n    }]\r\n  });\r\n</script>\r\n",
+    "cookiesAlert": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>.",
+    "gdpr": "By continiung you agree to our <a href='terms.html'>Terms of Service</a> and <a href='policy.html'>Privacy Policy</a>."
   },
   "pages": {
     "index.html": {
